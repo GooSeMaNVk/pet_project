@@ -23,7 +23,7 @@ class MyHomePage extends StatelessWidget {
     return Scaffold(
       body: Column(
         mainAxisAlignment: MainAxisAlignment.start,
-        children: <Widget>[
+        children: [
           const SizedBox(height: 50),
           Center(
             child: const Text(
